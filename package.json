@@ -1,0 +1,26 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "### What ### A node project to get awesome quotes in experimental style :)",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "scss": "node-sass --output-style compressed -o build/css src/scss",
+    "watch-css": "nodemon -e scss -x \"npm run scss\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajsaunge/words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kajsaunge/words/issues"
+  },
+  "homepage": "https://github.com/kajsaunge/words#readme"
+}

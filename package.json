@@ -1,7 +1,7 @@
 {
-  "name": "words",
+  "name": "flip",
   "version": "1.0.0",
-  "description": "### What ### A node project to get awesome quotes in experimental style :)",
+  "description": "### What ### Experimenting",
   "main": "index.js",
   "dependencies": {
     "node-sass": "^4.5.0"
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kajsaunge/words.git"
+    "url": "git+https://github.com/kajsaunge/flip.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kajsaunge/words/issues"
+    "url": "https://github.com/kajsaunge/flip/issues"
   },
-  "homepage": "https://github.com/kajsaunge/words#readme"
+  "homepage": "https://github.com/kajsaunge/flip#readme"
 }

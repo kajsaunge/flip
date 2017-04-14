@@ -1,7 +1,7 @@
 # README #
 
 ### What ###
-A node project to get awesome quotes in experimental style :)
+experimental fun
 
 ### How ###
 * npm install
